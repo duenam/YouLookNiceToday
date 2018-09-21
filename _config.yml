@@ -1,6 +1,6 @@
 # Site/SEO settings
 email: dueduenam@gmail.com
-baseurl: /YouLookNiceToday
+baseurl: "/YouLookNiceToday"
 paginate: 12
 paginate_path: "/page/:num"
 permalink: /:year/:month/:day/:title/
